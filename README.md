@@ -26,3 +26,14 @@ The dashboard is designed to support data-driven decisions by making advertising
 ### English Version 
 
 ![Chinese Dashboard](images/eng-dashboard.png)
+
+## 💡 Key Skills Demonstrated
+
+* **Data Analysis**: Analyze advertising performance across multiple dimensions to identify key trends and performance differences.
+* **Data Visualization**: Build interactive dashboards and visual reports using Power BI.
+* **DAX & Data Modeling**: Create dynamic measures, MoM metrics, and business-oriented analytical measures.
+* **Dynamic Analysis**: Use dynamic measure selectors to switch between different performance metrics.
+* **Advertising Performance Analysis**: Evaluate performance across different ad types, campaigns, and target interests.
+* **Audience Analysis**: Analyze user behavior by age, gender, and country.
+* **Trend Analysis**: Analyze advertising performance across hourly, daily, weekly, and monthly time dimensions.
+* **Business Insights**: Translate advertising data into actionable insights to support campaign performance evaluation and optimization.
