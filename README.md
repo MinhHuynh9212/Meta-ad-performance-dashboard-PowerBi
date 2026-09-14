@@ -17,3 +17,8 @@ Key features include:
 The dashboard is designed to support data-driven decisions by making advertising performance easier to monitor, compare, and identify areas for optimization.
 
 **Tools:** Power BI · DAX · Power Query
+## 📊 Dashboard Preview
+
+### Chinese Version 
+
+![Chinese Dashboard](images/cn-dashboard.png)
