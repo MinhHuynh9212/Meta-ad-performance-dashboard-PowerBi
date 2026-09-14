@@ -22,3 +22,7 @@ The dashboard is designed to support data-driven decisions by making advertising
 ### Chinese Version 
 
 ![Chinese Dashboard](images/cn-dashboard.png)
+
+### English Version 
+
+![Chinese Dashboard](images/eng-dashboard.png)
